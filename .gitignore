@@ -1,1 +1,10 @@
+x64
 .vs
+*/bin
+*/temp
+*/x64
+*/Debug
+*/Release
+./DamonsUtility/Debug
+./DamonsUtility/Release
+./DamonsUtility/x64
